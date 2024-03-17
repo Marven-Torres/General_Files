@@ -1,4 +1,4 @@
-# About Me
-I'm Marven Torres, an HTML/JS scripter. This is where I put my files, games, etc.
-
-Email me at mte9981@gmail.com to help with game development on itch.io, file development on github or music development.
+# HTML
+Most of my HTML projects are concepts and random stuff
+# JS
+JS is going to consist of mostly simple or complex things and barely made for actual usage.
